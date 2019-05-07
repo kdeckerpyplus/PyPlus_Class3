@@ -1,0 +1,16 @@
+- device_name: arista4
+  host: arista4.lasthop.io
+  password: fakepass
+  username: fakeuser
+- device_name: srx2
+  host: srx2.lasthop.io
+  password: fakepass
+  username: fakeuser
+- device_name: nxos1
+  host: nxos1.lasthop.io
+  password: fakepass
+  username: fakeuser
+- device_name: nxos2
+  host: nxos2.lasthop.io
+  password: fakepass
+  username: fakeuser
