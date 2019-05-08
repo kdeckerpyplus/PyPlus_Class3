@@ -7,8 +7,6 @@ import json
 with open("exercise3_input.txt", "r") as f:
 	dNapalmData = json.load(f)
 
-pprint(dNapalmData)
-
 # Create empty IP Address lists:
 ipv4_list = []
 ipv6_list = []
